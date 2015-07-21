@@ -1,6 +1,7 @@
 # edX 
 ## Microsoft: DAT201x Querying with Transact-SQL
 
-Labs section for the 'Microsoft: DAT201x Querying with Transact-SQL' course provided by edX and Microsoft. 
-More details can be found on [https://www.edx.org/course/querying-transact-sql-microsoft-dat201x-0]
+Contains 11 lab sections for the 'Microsoft: DAT201x Querying with Transact-SQL' course provided by edX and Microsoft. 
+
+Details of the course can be found [here][https://www.edx.org/course/querying-transact-sql-microsoft-dat201x-0].
 
